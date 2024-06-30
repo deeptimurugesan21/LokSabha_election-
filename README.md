@@ -126,4 +126,4 @@ Here is a sample visualization of the number of seats won by each party:
 ![image](https://github.com/deeptimurugesan21/LokSabha_election-/assets/131357285/9d8cb79b-f35a-4c49-ae78-dbdd076cc83e)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](#[LICENSE](https://github.com/deeptimurugesan21/LokSabha_election-/blob/main/LICENSE)) file for details.
+This project is licensed under the MIT License - see the [LICENSE](#https://github.com/deeptimurugesan21/LokSabha_election-/blob/main/LICENSE) file for details.
