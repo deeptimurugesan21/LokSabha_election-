@@ -1,4 +1,4 @@
-# Election Results Analysis 2024
+# LokSabha Election Results Analysis 2024
 
 This project analyzes the results of the 2024 elections using a dataset of election results. The analysis includes identifying the party with the highest and lowest margins of victory, visualizing the number of seats won by each party, and examining the top margins achieved by different parties.
 ![image](https://github.com/deeptimurugesan21/LokSabha_election-/assets/131357285/505ffdbd-3006-4788-8b7c-889d136946ae)
